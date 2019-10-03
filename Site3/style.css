@@ -1,0 +1,143 @@
+body
+{
+width:100%;
+margin:0;
+background:#ebebe9;
+}
+
+img{
+width:100%;
+}
+
+.header
+{
+background:white;
+
+}
+
+.topspace
+{
+height:10px;
+background:#894aa3;
+}
+.main
+{
+background:red;
+
+display:inline;
+
+}
+
+.intro
+{
+background:blue;
+display:inline;
+}
+.footer div
+{
+display:inline-block;
+width:20%;
+vertical-align: top;
+padding:10px;
+margin:20px;
+}
+
+.foot p
+{
+color:white;
+padding:25px;
+}
+
+.logobox
+{
+
+margin:25px 0 25px 25px;
+width:250px;
+
+}
+
+.menu
+{
+background:white;
+overflow: hidden;
+}
+
+.menu ul
+{
+margin-right:50px;
+float:right;
+list-style-type:none;
+}
+
+.menu li
+{
+margin:0 5px;
+padding:10px;
+float:left;
+}
+
+.menu a
+{
+
+}
+	
+.sitetitle h1
+{
+color:#2e2e2c;
+clear:both;
+text-align:center;
+background:#ebebe9;
+padding:25px;
+}
+
+.services div
+{
+width:30%;
+display:inline-block;
+padding:15px;
+min-width:250px;
+}
+
+.services{
+background:white;
+
+}
+.special {
+width:28%;
+background:white;
+display:inline-block;
+margin:20px;
+padding:10px;
+min-width:250px;
+}
+
+.main form
+{
+margin:auto;
+width:50%;
+}
+
+.specialbox {
+padding:10px;
+}
+.foot{
+background:#444444;
+}
+
+.footer div
+{
+
+}
+
+.gallery div
+{
+display:inline-block;
+min-width:250px;
+margin:20px;
+}
+
+.active
+{
+	background:blue;
+	color:white;
+}

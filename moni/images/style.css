@@ -1,0 +1,165 @@
+img{ 
+width:100%;
+}
+span{
+color:#27ccc0;
+}
+body{
+margin:0;
+}
+.nevigation{
+   position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: +1;
+background:white;
+}
+.nevigation img{
+ position:relative;
+  top:0;
+left:10px;
+
+width:10em;
+}
+.nevigation ul{
+margin:25px;
+position:absolute;
+top:0;
+right:0;
+display:inline;
+
+}              
+.nevigation a {
+text-decoration:none;
+color:#898989;
+}
+.nevigation li{
+padding:25px;
+list-style-type:none;
+display:inline;
+}
+.slider{
+position:relative;
+}
+.center{
+position:absolute;
+top:50%;
+width:100%;
+text-align:center;
+color:white;
+}
+.center1 {
+position:absolute;
+top:85%;
+width:100%;
+text-align:center;
+}
+
+.center1 i{
+margin:2px;
+}
+.iconsection
+{
+max-width:1200px;
+margin:25px auto;
+}
+.iconbox
+{
+display:inline-block;
+min-width:250px;
+max-width:350px;
+margin:-2px;
+padding:20px;
+}
+
+.iconbox * {
+    text-align: center;
+    color: white;
+}
+
+.iconbox i
+{
+padding:15px;
+background:#2ec3b8;
+color:white;
+border-radius:28px;
+font-size:24px;
+}
+.plans{
+margin-right:-25px;
+background:#fafafa;
+}
+.plans h2{
+padding-top:15px;
+text-align:center;
+word-spacing: 6px; 
+line-height:0;
+}
+.plans1{
+margin:25px;
+display:inline-block;
+width:20%;
+}
+.plans11{
+background:#07aca0;
+text-align:center;
+padding:1px 3px;
+}
+.plans12{
+font-size:50px;
+background:#ededed;
+padding:0px;
+}
+.plans13{
+background:white;
+}
+.plans14{
+background:#07aca0;
+text-align:center;
+padding:1px 3px;
+}
+.menu{
+position:relative;
+margin-top:35px;
+
+}
+.menu h3{
+text-align:center;
+}
+.menu p{
+line-height:0px;
+text-align:center;
+}
+.menu1{
+width:28%;
+position:relative;
+background-image:url(slider.jpg);
+background-size:auto;
+display:inline-block;
+border-radius:5px;
+margin:25px;
+border:2px solid #f6f6f6;
+}
+.circle{
+position:absolute;
+top:-25px;
+right:-20px;
+border-radius:50px;
+background:white;
+}
+.menu1 button{
+margin:auto;
+}
+.lang p{
+font-size:30px;
+border:2px solid #f6f6f6;
+display:inline-block;
+width:15%;
+margin:auto;
+padding:10px;
+}
+
+.lang
+{
+text-align:center;
+}

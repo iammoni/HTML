@@ -1,0 +1,37 @@
+body{ 
+background:lightblue;
+}
+img{
+width:100%;
+}
+.logo{
+width:200px;
+}
+.navigation ul li{
+display:inline;
+}
+.navigation ul{
+padding:10px;
+ background:blue;
+}
+.navigation ul li a{
+color:white;
+padding:10px;
+}
+h2{
+text-align:center;
+}
+.description{
+vertical-align:top;
+max-width:800px;
+padding:25px;
+display:inline-block;
+}
+.thumbnail{
+width:250px;
+}
+.sidebar{
+vertical-align:top;
+max-width:300px;
+display:inline-block;
+}
